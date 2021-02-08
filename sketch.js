@@ -57,9 +57,9 @@ function draw() {
 
   textSize(15).text("RUBBER",665,450);
   textSize(20).text("STONE",660,550);
-  textSize(20).text("IRON",300,540);
-  textSize(20).text("SAND",200,570);
-  textSize(20).text("SAND",380,570);
+  textSize(20).text("big stone",300,540);
+  textSize(20).text("paper",200,570);
+  textSize(20).text("paper",380,570);
   //text.collided("rubber")
   
  
